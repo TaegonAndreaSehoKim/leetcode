@@ -6,15 +6,15 @@ class Solution(object):
         """
         
         stack = []
-        dic = {")": "(", "}": "{", "]": "["}
+        dic = {"(": ")", "{": "}", "[": "]"}
+
         for c in s:
             if c in dic:
-                if stack and stack[-1] == dic[c]:
-                    stack.pop()
-                else:
-                    return False
-            else:
                 stack.append(c)
+            elif stack and c == dic[stack[-1]]:
+                stack.pop()
+            else:
+                return False
         if not stack:
             return True
         else:
