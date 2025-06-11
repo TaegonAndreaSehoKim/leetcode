@@ -14,7 +14,6 @@ class Solution(object):
                 nums2.append(nums[i])
                 k += 1
         
-        nums2.sort()
         for i in range(len(nums2)):
             nums[i] = nums2[i]
         
