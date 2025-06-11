@@ -9,6 +9,5 @@ class Solution(object):
             if nums[i-1] != nums[i]:
                 nums[j] = nums[i]
                 j += 1
-        k = j
 
-        return k
+        return j
