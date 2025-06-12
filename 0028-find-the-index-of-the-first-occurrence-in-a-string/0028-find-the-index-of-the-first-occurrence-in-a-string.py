@@ -9,7 +9,7 @@ class Solution(object):
         h = 0
         r = 0
 
-        while h < len(haystack):
+        while r < len(haystack) - len(needle) + 1:
             if needle[n] == haystack[h]:
                 if n == len(needle) - 1:
                     return h - len(needle) + 1
