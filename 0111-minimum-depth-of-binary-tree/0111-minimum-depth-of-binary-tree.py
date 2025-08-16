@@ -8,15 +8,20 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        self.min_depth = 10 ** 5
-        self.dfs(root, 0)
-
-        return self.min_depth
-
-    def dfs(self, node, cur_depth):
-        if not node:
-            return
-        if not node.left and not node.right:
-            self.min_depth = min(self.min_depth, cur_depth + 1)
-        self.dfs(node.left, cur_depth + 1)
-        self.dfs(node.right, cur_depth + 1)
+        
+        queue = []
+        queue.append(root)
+        depth = 0
+        while len(queue) != 0:
+            numOfNodes = len(queue)
+            while (numOfNodes > 0):
+                current_node = queue.pop(0)
+                if not current_node.left and not current_node.right:
+                    depth += 1
+                    return depth
+                if current_node.left:
+                    queue.append(current_node.left)
+                if current_node.right:
+                    queue.append(current_node.right)
+                numOfNodes -= 1
+            depth += 1
