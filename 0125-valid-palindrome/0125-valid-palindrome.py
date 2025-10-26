@@ -4,5 +4,4 @@ class Solution:
         for c in s:
             if c.isalnum():
                 newStr += c.lower()
-        revStr = newStr[::-1]
-        return newStr == revStr
+        return newStr == newStr[::-1]
