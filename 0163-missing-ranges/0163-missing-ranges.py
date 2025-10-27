@@ -3,7 +3,8 @@ class Solution:
         result = []
         l = lower
         for number in nums:
-            local_result = []
+            if number > upper:
+                break
             if l >= number:
                 l = number + 1
                 continue
