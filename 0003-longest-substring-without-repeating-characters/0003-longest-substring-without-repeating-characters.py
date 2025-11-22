@@ -4,9 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if len(s) == 0:
-            return 0
-            
         char_set = set()
         start_idx = 0
         result = 0
