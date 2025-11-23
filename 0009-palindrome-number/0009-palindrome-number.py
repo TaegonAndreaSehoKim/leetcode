@@ -6,5 +6,15 @@ class Solution(object):
         """
         if x < 0:
             return False
-        return x == int(str(x)[::-1])
+        abs_num = abs(x)
+        reversed_num = 0
         
+        while abs_num > 0:
+            digit = abs_num % 10
+            abs_num = abs_num // 10
+            reversed_num = reversed_num * 10 + digit
+        
+        if abs(x) == reversed_num:
+            return True
+        else:
+            return False
