@@ -8,19 +8,20 @@ class Solution(object):
         if numRows == 1:
             return s
 
-        rows = [[] for _ in range(numRows)]
-        cycle_len = 2 * numRows - 2
-        
-        for i in range(len(s)):
-            index = i % cycle_len
+        rows = ["" for _ in range(numRows)]
+        cur_row = 0
+        step = 1
+
+        for char in s:
+            rows[cur_row] += char
+            if cur_row == 0:
+                step = 1
+            elif cur_row == numRows - 1:
+                step = -1
             
-            if index < numRows:
-                rows[index].append(s[i])
-            else:
-                rows[cycle_len - index].append(s[i])
+            cur_row += step
         
         result = ""
         for row in rows:
-            result += "".join(row)
-            
+            result += row
         return result
