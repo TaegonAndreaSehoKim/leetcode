@@ -7,8 +7,9 @@ class Solution(object):
         
         abs_number = abs(x)
         result = int(str(abs_number)[::-1])
+        limit = 2**31
         if x < 0:
             result *= -1
-        if result > 2**31 - 1 or result < -(2**31):
+        if result > limit - 1 or result < -1 * limit:
             return 0
         return result
