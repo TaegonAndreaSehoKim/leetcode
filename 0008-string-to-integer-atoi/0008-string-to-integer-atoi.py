@@ -4,9 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        is_number = False   # 숫자가 나왔는가?
-        is_positive = True  # 양수인가?
-        is_started = False  # 부호든 숫자든 뭔가 시작되었는가? (추가됨)
+        is_number = False
+        is_positive = True
+        is_started = False
         result = 0
         
         for char in s:
