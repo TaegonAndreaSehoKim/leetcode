@@ -21,7 +21,4 @@ class Solution(object):
             
             cur_row += step
         
-        result = ""
-        for row in rows:
-            result += row
-        return result
+        return "".join(rows)
