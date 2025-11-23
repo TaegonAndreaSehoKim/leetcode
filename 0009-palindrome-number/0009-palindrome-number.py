@@ -14,7 +14,4 @@ class Solution(object):
             abs_num = abs_num // 10
             reversed_num = reversed_num * 10 + digit
         
-        if abs(x) == reversed_num:
-            return True
-        else:
-            return False
+        return abs(x) == reversed_num
