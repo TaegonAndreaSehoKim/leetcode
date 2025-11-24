@@ -13,7 +13,7 @@ class Solution(object):
         dummy = ListNode(0)
         dummy.next = head
         curr = dummy
-        while curr.next is not None:
+        while curr.next:
             if curr.next.val == val:
                 curr.next = curr.next.next
             else:
