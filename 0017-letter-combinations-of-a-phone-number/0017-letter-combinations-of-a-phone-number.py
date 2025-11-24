@@ -17,9 +17,9 @@ class Solution(object):
                 return
             
             current_digit = digits[index]
+
             for char in phone_map[current_digit]:
                 backtrack(index + 1, current_str + char)
-        
+                
         backtrack(0, "")
-
         return result
