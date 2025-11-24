@@ -10,12 +10,9 @@ class Solution(object):
         :type val: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)
-        dummy.next = head
-        curr = dummy
-        while curr.next:
-            if curr.next.val == val:
-                curr.next = curr.next.next
-            else:
-                curr = curr.next
-        return dummy.next
+        if not head:
+            return None
+        
+        head.next = self.removeElements(head.next, val)
+
+        return head.next if head.val == val else head
