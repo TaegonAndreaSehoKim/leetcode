@@ -11,6 +11,18 @@ class Solution(object):
         for i in range(len(nums) - 2):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
+                
+            s = nums[i] + nums[i + 1] + nums[i + 2]
+            if s > target:
+                if abs(s - target) < abs(result - target):
+                    return s
+                return result
+            s = nums[i] + nums[-1] + nums[-2]
+            if s < target:
+                if abs(s - target) < abs(result - target):
+                    result = s
+                continue
+
             left = i + 1
             right = len(nums) - 1
             while left < right:
