@@ -4,12 +4,14 @@ class Solution:
 
         def dfs(path):
             if len(path) == len(nums):
-                result.append(path)
+                result.append(path.copy())
                 return
             
             for num in nums:
                 if num not in path:
-                    dfs(path + [num])
+                    path.append(num)
+                    dfs(path)
+                    path.pop()
 
         dfs([])
 
