@@ -14,5 +14,3 @@ class Solution:
             nums[left], nums[right] = nums[right], nums[left]
         
         nums[left + 1:] = reversed(nums[left + 1:])
-
-        return nums
