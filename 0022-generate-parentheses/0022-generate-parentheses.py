@@ -4,24 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        stack = []
-        result = []
+        dp = [[] for _ in range(n + 1)]
+        dp[0] = [""]        # edge case
 
-        def dfs(open, close):
-            if open == close == n:
-                result.append("".join(stack))
-                return
-            
-            if open < n:
-                stack.append("(")
-                dfs(open + 1, close)
-                stack.pop()
-            
-            if close < open:
-                stack.append(")")
-                dfs(open, close + 1)
-                stack.pop()
-            
-        dfs(0, 0)
-
-        return result
+        for k in range(1 , n + 1):
+            for i in range(k):
+                j = k - 1 - i
+                for inside in dp[i]:
+                    for outside in dp[j]:
+                        dp[k].append("(" + inside + ")" + outside)
+        
+        return dp[n]
