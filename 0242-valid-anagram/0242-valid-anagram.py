@@ -9,5 +9,5 @@ class Solution:
         for char in t:
             if (char not in freq) or (freq[char] == 0):
                 return False
-            freq[char] = freq.get(char) - 1
+            freq[char] -= 1
         return True
