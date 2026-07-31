@@ -1,9 +1,14 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
+        if len(p) > len(s):
+            return []
+        
         l = 0
         need = [0] * 26
         current_window = [0] * 26
         result = []
+
+        
 
         for char in p:
             need[ord(char) - ord("a")] += 1
