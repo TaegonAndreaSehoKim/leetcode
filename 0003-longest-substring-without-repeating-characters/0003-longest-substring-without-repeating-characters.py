@@ -5,8 +5,4 @@ class Solution:
         char_set = set()
         for r, char in enumerate(s):
             while char in char_set:
-                char_set.remove(s[l])
-                l += 1
-            char_set.add(char)
-            result = max(result, r - l + 1)
-        return result
+                
