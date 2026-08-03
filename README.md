@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0015-3sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -100,9 +101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0155-min-stack/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
