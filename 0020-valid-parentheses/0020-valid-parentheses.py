@@ -1,21 +1,17 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-        dic = {"(": ")", "{": "}", "[": "]"}
-
+        pairs = {
+            ")": "(",
+            "]": "[",
+            "}": "{"
+        }
+        
         for c in s:
-            if c in dic:
-                stack.append(c)
-            elif stack and c == dic[stack[-1]]:
-                stack.pop()
+            if c in pairs:
+                if not stack or stack.pop() != pairs[c]:
+                    return False
             else:
-                return False
-        if not stack:
-            return True
-        else:
-            return False
+                stack.append(c)
+            
+        return not stack
