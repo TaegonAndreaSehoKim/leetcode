@@ -13,8 +13,9 @@ class Solution:
             tail.next = new_node
             l1_value = l1.val if l1 else 0
             l2_value = l2.val if l2 else 0
-            new_node.val = (l1_value + l2_value + carry) % 10
-            carry = (l1_value + l2_value + carry) // 10
+            total = l1_value + l2_value + carry
+            new_node.val = (total) % 10
+            carry = (total) // 10
             tail = new_node
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
