@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Greedy
