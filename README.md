@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
