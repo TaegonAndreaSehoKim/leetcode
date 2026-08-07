@@ -6,7 +6,6 @@ class Node:
         self.next = None
 
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {}
@@ -18,15 +17,15 @@ class LRUCache:
     def remove(self, node: Node) -> None:
         previous = node.prev
         following = node.next
-        previous.next = following
-        following.prev = previous
 
-    def insert_mru(self,node: Node) -> None:
+        following.prev = previous
+        previous.next = following
+
+    def insert_mru(self, node: Node) -> None:
         node.prev = self.right.prev
         self.right.prev.next = node
         self.right.prev = node
         node.next = self.right
-    
 
     def get(self, key: int) -> int:
         if key not in self.cache:
@@ -35,8 +34,8 @@ class LRUCache:
         node = self.cache[key]
         self.remove(node)
         self.insert_mru(node)
+
         return node.value
-            
 
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
@@ -45,12 +44,11 @@ class LRUCache:
         node = Node(key, value)
         self.cache[key] = node
         self.insert_mru(node)
-        
+
         if len(self.cache) > self.capacity:
             lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
-        
 
 
 # Your LRUCache object will be instantiated and called as such:
