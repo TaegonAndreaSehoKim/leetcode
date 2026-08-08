@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
