@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
