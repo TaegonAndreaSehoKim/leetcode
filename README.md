@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0056-merge-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
