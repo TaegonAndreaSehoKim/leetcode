@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
