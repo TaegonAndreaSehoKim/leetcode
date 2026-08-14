@@ -208,4 +208,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
