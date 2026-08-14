@@ -4,19 +4,17 @@ class MyCalendar:
         self.books = []
 
     def book(self, startTime: int, endTime: int) -> bool:
-        new_booking = (startTime, endTime)
-
+        new_booking = [startTime, endTime]
+        
         index = bisect_left(self.books, new_booking)
 
         if index > 0:
-            previous_start, previous_end = self.books[index - 1]
-
+            previous_end = self.books[index - 1][1]
             if previous_end > startTime:
                 return False
         
         if index < len(self.books):
-            next_start, next_end = self.books[index]
-
+            next_start = self.books[index][0]
             if next_start < endTime:
                 return False
 
