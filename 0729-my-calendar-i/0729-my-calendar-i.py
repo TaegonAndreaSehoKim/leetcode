@@ -4,10 +4,23 @@ class MyCalendar:
         self.books = []
 
     def book(self, startTime: int, endTime: int) -> bool:
-        for single_book in self.books:
-            if startTime < single_book[1] and endTime > single_book[0]:
+        new_booking = (startTime, endTime)
+
+        index = bisect_left(self.books, new_booking)
+
+        if index > 0:
+            previous_start, previous_end = self.books[index - 1]
+
+            if previous_end > startTime:
                 return False
-        self.books.append([startTime, endTime])
+        
+        if index < len(self.books):
+            next_start, next_end = self.books[index]
+
+            if next_start < endTime:
+                return False
+
+        self.books.insert(index, new_booking)
         return True
 
 # Your MyCalendar object will be instantiated and called as such:
