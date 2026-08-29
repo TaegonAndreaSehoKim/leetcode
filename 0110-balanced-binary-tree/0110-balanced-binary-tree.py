@@ -9,10 +9,11 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0
+                
             left_height = dfs(node.left)
             right_height = dfs(node.right)
 
-            if(
+            if (
                 left_height == -1
                 or right_height == -1
                 or abs(left_height - right_height) > 1
@@ -20,5 +21,5 @@ class Solution:
                 return -1
             
             return 1 + max(left_height, right_height)
-        
+
         return dfs(root) != -1
