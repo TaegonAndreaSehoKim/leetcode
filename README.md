@@ -33,11 +33,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
