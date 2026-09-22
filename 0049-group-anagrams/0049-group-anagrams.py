@@ -8,7 +8,9 @@ class Solution:
                 chars[index] += 1
             
             key = tuple(chars)
+
             if key not in result:
                 result[key] = []
+            
             result[key].append(word)
         return list(result.values())
