@@ -15,5 +15,4 @@ class Solution:
                 result[-1][1] = max(current_end, last_end)
             else:
                 result.append(interval)
-        
         return result
