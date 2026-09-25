@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
