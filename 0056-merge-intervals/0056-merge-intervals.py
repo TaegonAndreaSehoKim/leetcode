@@ -7,12 +7,12 @@ class Solution:
             if not result:
                 result.append(interval)
                 continue
-            
             current_start, current_end = interval
             last_end = result[-1][1]
 
             if current_start <= last_end:
-                result[-1][1] = max(current_end, last_end)
+                result[-1][1] = max(last_end, current_end)
             else:
                 result.append(interval)
+        
         return result
