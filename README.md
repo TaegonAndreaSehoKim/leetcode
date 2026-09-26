@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0994-rotting-oranges](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TaegonAndreaSehoKim/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
