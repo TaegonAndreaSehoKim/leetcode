@@ -20,6 +20,6 @@ class Solution:
 
                 rows[r].add(num)
                 cols[c].add(num)
-                boxes[(r//3) * 3 + (c//3)]
+                boxes[(r//3) * 3 + (c//3)].add(num)
 
         return True
