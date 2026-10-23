@@ -11,8 +11,7 @@ class Solution:
             for index, value in enumerate(inorder)
         }
         self.preorder_index = 0
-
-
+        
         def build(left, right):
             if left > right:
                 return None
@@ -27,7 +26,5 @@ class Solution:
             root.right = build(mid + 1, right)
 
             return root
-    
-        return build(0, len(inorder) - 1)
-
-
+        
+        return build(0, len(preorder) - 1)
